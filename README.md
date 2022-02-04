@@ -7,9 +7,13 @@
 
 ### Créative, quelque fois rêveuse, on dit parfois de moi que je suis l'incarnation du calme.
 
-|Birthday|Gender|Favorite Color|Favorite Food|Pinneapple on pizza|
-|:-:|:-:|:-:|:-:|:-:|
-|22/06|Female|Blue|Chocolate cakes|:x:|
+|                  |               |
+|------------------|---------------|
+|Birthday          |22/06          |
+|Gender            |Female         |
+|Favorite Color    |Blue           |
+|Favorite Food     |Chocolate cakes|
+|Pineapple on pizza|<ul><li>- [] </li></ul>          |
 
 ## Hobbies
 * Sewing
@@ -34,7 +38,7 @@
 
 First student job : I work at the reception desk of a museum. Every sunday, I'm often alone in the museum. Under the desk there is an emergency button. But nobody told me that. So one day, I find this red button : "mmm what is this button for...? And if I pushed it..." Nothing happens. I push back on the button. Still nothing. 5 minutes later 2 security guys come running. They thought there was a robbery at the museum. Oupsi...
 
-## TD;LR
+### TD;LR
 
 I push on red button... :bomb:
 
