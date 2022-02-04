@@ -30,4 +30,11 @@
 
 ...you need a creative idea :art:
 
+## A funny story
 
+First student job : I work at the reception desk of a museum. Every sunday, I'm often alone in the museum. Under the desk there is an emergency button. But nobody told me that. So one day, I find this red button : "mmm what is this button for...? And if I pushed it..." Nothing happens. I push back on the button. Still nothing. 5 minutes later 2 security guys come running. They thought there was a robbery at the museum. Oupsi...
+
+## TD;LR
+
+I push on red button...
+  
