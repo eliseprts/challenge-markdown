@@ -9,4 +9,4 @@
 
 |Birthday|Gender|Favorite Color|Favorite Food|Pinneapple on pizza|
 |:-:|:-:|:-:|:-:|:-:|
-|22/06|Female|Blue|Chocolate cakes|- []|
+|22/06|Female|Blue|Chocolate cakes|<ul><li>- []</li></ul>|
