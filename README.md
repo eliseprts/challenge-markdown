@@ -36,5 +36,5 @@ First student job : I work at the reception desk of a museum. Every sunday, I'm 
 
 ## TD;LR
 
-I push on red button...
+I push on red button...:bomb:
   
