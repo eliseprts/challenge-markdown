@@ -7,8 +7,6 @@
 
 ### Créative, quelque fois rêveuse, on dit parfois de moi que je suis l'incarnation du calme.
 
-|**Birthday**|22/06|
-|**Gender**|Female|
-|**Favorite color**|Blue|
-|**Favorite food**|Chocolate cakes|
-|**Pinneapple on pizza**|[]|
+|Birthday|Gender|Favorite Color|Favorite Food|Pinneapple on pizza|
+|:-:|:-:|:-:|:-:|:-:|
+|22/06|Female|Blue|Chocolate cakes|- []|
