@@ -10,3 +10,24 @@
 |Birthday|Gender|Favorite Color|Favorite Food|Pinneapple on pizza|
 |:-:|:-:|:-:|:-:|:-:|
 |22/06|Female|Blue|Chocolate cakes|:x:|
+
+## Hobbies
+* Sewing
+
+* Yoga
+
+* Reading (a lot!)
+
+* Arts
+
+* Renovate my house
+
+## You can always count on me when...
+
+...you need a little structure in your thoughts :bookmark_tabs:
+
+...you need help (I will do my best :wink:)
+
+...you need a creative idea :art:
+
+
